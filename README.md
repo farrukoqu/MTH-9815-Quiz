@@ -1,1 +1,5 @@
-# Omar Twahir's MTH-9815-Quiz 
+# MTH 9815/Software Engineering Quiz
+
+# Contents:
+
+- Linked List
