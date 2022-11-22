@@ -2,4 +2,4 @@
 
 ## Contents:
 
-- Linked List
+- Quick Sort
